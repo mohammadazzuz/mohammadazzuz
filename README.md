@@ -79,29 +79,6 @@
 
 ###
 
-<p align="left"></p>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-###
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadazzuz&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadazzuz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadazzuz&theme=dark_dimmed" alt="mohammadazzuz" /></a> </p>
