@@ -32,9 +32,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" height="40" width="52" alt="heroku logo"  />
 </div>
 
-###
 
-Profile Readme Generator
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadazzuz&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadazzuz" /> </p>
 
