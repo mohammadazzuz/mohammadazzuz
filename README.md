@@ -35,7 +35,7 @@
 
 ##
 
-<h2 align="left"></h2>
+
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h3 align="left">Connect with me :</h3>
+<h2 align="left">Connect with me :</h2>
 
 ###
 
