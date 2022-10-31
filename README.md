@@ -13,7 +13,7 @@
 <p align="left">Python Full Stack Developer at Mystro GmbH.<br><br>- I’m currently learning Full Stack Web Development Online Course at Mystro GmbH in Germany ...</p>
 
 ###
-
+<h2 align="left"></h2>
 <h2 align="left">I code with</h2>
 
 ###
@@ -45,7 +45,7 @@
 </div>
 
 ###
-
+<h2 align="left"></h2>
 <h2 align="left">Connect with me :</h2>
 
 ###
