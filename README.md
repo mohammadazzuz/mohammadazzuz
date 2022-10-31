@@ -65,20 +65,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" width="42" alt="android logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mohammadazzuz/mohammadazzuz/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadazzuz&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadazzuz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadazzuz&theme=dark_dimmed" alt="mohammadazzuz" /></a> </p>
